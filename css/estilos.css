@@ -1,0 +1,30 @@
+.campo{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 280px;
+    border: solid 1px #CCC;
+    border-radius: 3px;
+    font-family: Arial;
+}
+
+.erro{
+    border-color: red;
+    color: red;
+}
+
+.botao{
+    background-color: #088a68;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.botao:hover{
+    background-color: #04B486;
+}
